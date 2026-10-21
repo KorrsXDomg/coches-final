@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "title": "Porsche 911 GT3 RS",
+    "category": "deportivo",
+    "price": 245000,
+    "engine": "4.0L Boxer",
+    "accel": "3.2s",
+    "power": "518 HP",
+    "warranty": "3 años de garantía de fábrica",
+    "desc": "Diseñado para circuito y homologado para carretera. Aerodinámica activa y motor atmosférico que gira hasta las 9.000 rpm.",
+    "paints": [
+      {
+        "id": "blanco",
+        "name": "Blanco",
+        "hex": "#f4f4f4",
+        "img": "cars/porsche-blanco.jpg"
+      },
+      {
+        "id": "negro",
+        "name": "Negro",
+        "hex": "#111111",
+        "img": "cars/porsche-negro.jpg"
+      },
+      {
+        "id": "azul",
+        "name": "Azul",
+        "hex": "#1d4ed8",
+        "img": "cars/porsche-azul.jpg"
+      },
+      {
+        "id": "rojo",
+        "name": "Rojo",
+        "hex": "#dc2626",
+        "img": "cars/porsche-rojo.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Audi RS e-tron GT",
+    "category": "electrico",
+    "price": 165000,
+    "engine": "Dual Motor EV",
+    "accel": "3.3s",
+    "power": "637 HP",
+    "warranty": "8 años de batería / 4 años de vehículo",
+    "desc": "Gran turismo 100% eléctrico con arquitectura de 800 V, tracción quattro e iluminación Matrix LED.",
+    "paints": [
+      {
+        "id": "blanco",
+        "name": "Blanco",
+        "hex": "#f5f5f5",
+        "img": "cars/audi-blanco.jpg"
+      },
+      {
+        "id": "negro",
+        "name": "Negro",
+        "hex": "#1a1a1a",
+        "img": "cars/audi-negro.jpg"
+      },
+      {
+        "id": "amarillo",
+        "name": "Amarillo",
+        "hex": "#eab308",
+        "img": "cars/audi-amarillo.jpg"
+      },
+      {
+        "id": "rojo",
+        "name": "Rojo",
+        "hex": "#e11d2e",
+        "img": "cars/audi-rojo.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Lamborghini Urus Performante",
+    "category": "suv",
+    "price": 260000,
+    "engine": "V8 Twin-Turbo",
+    "accel": "3.3s",
+    "power": "657 HP",
+    "warranty": "3 años de garantía sin límite de km",
+    "desc": "El super SUV. Menos peso con capó de fibra de carbono y modo Rally para salir del asfalto.",
+    "paints": [
+      {
+        "id": "blanco",
+        "name": "Blanco",
+        "hex": "#f3f3f3",
+        "img": "cars/urus-blanco.jpg"
+      },
+      {
+        "id": "negro",
+        "name": "Negro",
+        "hex": "#161616",
+        "img": "cars/urus-negro.jpg"
+      },
+      {
+        "id": "azul",
+        "name": "Azul",
+        "hex": "#0ea5e9",
+        "img": "cars/urus-azul.jpg"
+      },
+      {
+        "id": "naranja",
+        "name": "Naranja",
+        "hex": "#f97316",
+        "img": "cars/urus-naranja.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Ferrari SF90 Stradale",
+    "category": "hibrido",
+    "price": 524000,
+    "engine": "V8 + 3 motores EV",
+    "accel": "2.5s",
+    "power": "986 HP",
+    "warranty": "7 años de mantenimiento / 3 años de garantía",
+    "desc": "El primer superdeportivo híbrido enchufable de Ferrari. Tecnología derivada de la Fórmula 1.",
+    "paints": [
+      {
+        "id": "rojo",
+        "name": "Rojo",
+        "hex": "#e10600",
+        "img": "cars/ferrari-rojo.jpg"
+      },
+      {
+        "id": "gris",
+        "name": "Gris plateado",
+        "hex": "#9ca3af",
+        "img": "cars/ferrari-gris.jpg"
+      },
+      {
+        "id": "negro",
+        "name": "Negro",
+        "hex": "#0c0c0c",
+        "img": "cars/ferrari-negro.jpg"
+      },
+      {
+        "id": "azul",
+        "name": "Azul rey",
+        "hex": "#1e3a8a",
+        "img": "cars/ferrari-azul.jpg"
+      },
+      {
+        "id": "naranja",
+        "name": "Naranja",
+        "hex": "#ea580c",
+        "img": "cars/ferrari-naranja.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "McLaren 720S Spider",
+    "category": "deportivo",
+    "price": 315000,
+    "engine": "4.0L V8 Twin-Turbo",
+    "accel": "2.9s",
+    "power": "710 HP",
+    "warranty": "3 años de garantía McLaren Care",
+    "desc": "Monocasco de fibra de carbono con techo rígido retráctil de accionamiento eléctrico.",
+    "paints": [
+      {
+        "id": "blanco",
+        "name": "Blanco",
+        "hex": "#f7f7f7",
+        "img": "cars/mclaren-blanco.jpg"
+      },
+      {
+        "id": "naranja",
+        "name": "Naranja",
+        "hex": "#f97316",
+        "img": "cars/mclaren-naranja.jpg"
+      },
+      {
+        "id": "gris",
+        "name": "Gris plateado",
+        "hex": "#94a3b8",
+        "img": "cars/mclaren-gris.jpg"
+      },
+      {
+        "id": "verde",
+        "name": "Verde",
+        "hex": "#14532d",
+        "img": "cars/mclaren-verde.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "BMW M5 Competition",
+    "category": "deportivo",
+    "price": 112000,
+    "engine": "4.4L V8 Twin-Turbo",
+    "accel": "3.3s",
+    "power": "617 HP",
+    "warranty": "4 años o 100.000 km",
+    "desc": "Berlina de alto rendimiento con tracción M xDrive configurable a propulsión trasera.",
+    "paints": [
+      {
+        "id": "azul",
+        "name": "Azul oscuro",
+        "hex": "#1e3a5f",
+        "img": "cars/bmw-azul.jpg"
+      },
+      {
+        "id": "gris",
+        "name": "Gris",
+        "hex": "#6b7280",
+        "img": "cars/bmw-gris.jpg"
+      },
+      {
+        "id": "verde",
+        "name": "Verde",
+        "hex": "#166534",
+        "img": "cars/bmw-verde.jpg"
+      },
+      {
+        "id": "rojo",
+        "name": "Rojo",
+        "hex": "#dc2626",
+        "img": "cars/bmw-rojo.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Bugatti Chiron Pur Sport",
+    "category": "deportivo",
+    "price": 3600000,
+    "engine": "8.0L W16 Quad-Turbo",
+    "accel": "2.3s",
+    "power": "1.479 HP",
+    "warranty": "5 años de garantía Bugatti Passeport",
+    "desc": "Edición limitada enfocada en agilidad, con relaciones de cambio un 15% más cortas.",
+    "paints": [
+      {
+        "id": "rojo",
+        "name": "Rojo",
+        "hex": "#b91c1c",
+        "img": "cars/bugatti-rojo.jpg"
+      },
+      {
+        "id": "amarillo",
+        "name": "Amarillo",
+        "hex": "#eab308",
+        "img": "cars/bugatti-amarillo.jpg"
+      },
+      {
+        "id": "gris",
+        "name": "Gris",
+        "hex": "#4b5563",
+        "img": "cars/bugatti-gris.jpg"
+      },
+      {
+        "id": "azul",
+        "name": "Azul",
+        "hex": "#0284c7",
+        "img": "cars/bugatti-azul.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Aston Martin DBX 707",
+    "category": "suv",
+    "price": 235000,
+    "engine": "4.0L V8 Twin-Turbo",
+    "accel": "3.1s",
+    "power": "697 HP",
+    "warranty": "3 años de garantía limitada Aston Martin",
+    "desc": "El SUV de lujo más potente de la casa, con embrague húmedo de 9 velocidades y frenos carbocerámicos.",
+    "paints": [
+      {
+        "id": "verde",
+        "name": "Verde",
+        "hex": "#14532d",
+        "img": "cars/aston-verde.jpg"
+      },
+      {
+        "id": "gris",
+        "name": "Gris",
+        "hex": "#6b7280",
+        "img": "cars/aston-gris.jpg"
+      },
+      {
+        "id": "azul",
+        "name": "Azul",
+        "hex": "#1d4ed8",
+        "img": "cars/aston-azul.jpg"
+      },
+      {
+        "id": "negro",
+        "name": "Negro",
+        "hex": "#111111",
+        "img": "cars/aston-negro.jpg"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Tesla Model S Plaid",
+    "category": "electrico",
+    "price": 95000,
+    "engine": "Tri-Motor EV",
+    "accel": "1.99s",
+    "power": "1.020 HP",
+    "warranty": "8 años en batería y unidad de tracción",
+    "desc": "De 0 a 100 km/h por debajo de 2 segundos, con tres motores y rotores de fibra de carbono.",
+    "paints": [
+      {
+        "id": "rojo",
+        "name": "Rojo",
+        "hex": "#dc2626",
+        "img": "cars/tesla-rojo.jpg"
+      },
+      {
+        "id": "blanco",
+        "name": "Blanco",
+        "hex": "#f4f4f5",
+        "img": "cars/tesla-blanco.jpg"
+      },
+      {
+        "id": "negro",
+        "name": "Negro",
+        "hex": "#18181b",
+        "img": "cars/tesla-negro.jpg"
+      },
+      {
+        "id": "azul",
+        "name": "Azul",
+        "hex": "#1d4ed8",
+        "img": "cars/tesla-azul.jpg"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Ford F-150 Raptor R",
+    "category": "suv",
+    "price": 110000,
+    "engine": "5.2L V8 Supercharged",
+    "accel": "3.7s",
+    "power": "700 HP",
+    "warranty": "5 años o 100.000 km en el tren motriz",
+    "desc": "Pick-up de alto rendimiento con suspensión Fox Live Valve pensada para desierto y ciudad.",
+    "paints": [
+      {
+        "id": "rojo",
+        "name": "Rojo",
+        "hex": "#dc2626",
+        "img": "cars/ford-rojo.jpg"
+      },
+      {
+        "id": "blanco",
+        "name": "Blanco",
+        "hex": "#f5f5f4",
+        "img": "cars/ford-blanco.jpg"
+      },
+      {
+        "id": "azul",
+        "name": "Azul",
+        "hex": "#1d4ed8",
+        "img": "cars/ford-azul.jpg"
+      },
+      {
+        "id": "verde",
+        "name": "Verde",
+        "hex": "#4d5c2e",
+        "img": "cars/ford-verde.jpg"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Mercedes-AMG GT Black Series",
+    "category": "deportivo",
+    "price": 325000,
+    "engine": "4.0L V8 de cigüeñal plano",
+    "accel": "3.1s",
+    "power": "720 HP",
+    "warranty": "4 años de garantía AMG Performance",
+    "desc": "Aerodinámica de GT3, splitter frontal activo y el V8 más radical de la saga Black Series.",
+    "paints": [
+      {
+        "id": "naranja",
+        "name": "Naranja",
+        "hex": "#ea580c",
+        "img": "cars/amg-naranja.jpg"
+      },
+      {
+        "id": "gris",
+        "name": "Gris plateado",
+        "hex": "#cbd5e1",
+        "img": "cars/amg-gris.jpg"
+      },
+      {
+        "id": "negro",
+        "name": "Negro",
+        "hex": "#0a0a0a",
+        "img": "cars/amg-negro.jpg"
+      },
+      {
+        "id": "verde",
+        "name": "Verde",
+        "hex": "#16a34a",
+        "img": "cars/amg-verde.jpg"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Rolls-Royce Spectre",
+    "category": "electrico",
+    "price": 420000,
+    "engine": "Dual Motor Ultra-Luxury",
+    "accel": "4.4s",
+    "power": "577 HP",
+    "warranty": "4 años de garantía total sin límite de km",
+    "desc": "El primer coupé 100% eléctrico de la marca, con suspensión Planar y techo Starlight.",
+    "paints": [
+      {
+        "id": "azul",
+        "name": "Azul",
+        "hex": "#1e3a8a",
+        "img": "cars/spectre-azul.jpg"
+      },
+      {
+        "id": "dorado",
+        "name": "Dorado",
+        "hex": "#c4a35a",
+        "img": "cars/spectre-dorado.jpg"
+      },
+      {
+        "id": "gris",
+        "name": "Gris",
+        "hex": "#9ca3af",
+        "img": "cars/spectre-gris.jpg"
+      },
+      {
+        "id": "blanco",
+        "name": "Blanco",
+        "hex": "#f8fafc",
+        "img": "cars/spectre-blanco.jpg"
+      }
+    ]
+  }
+]
